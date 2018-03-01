@@ -25,7 +25,7 @@ http://aclweb.org/anthology/K/K15/K15-1013.pdf
 ## Data and code used for the replication:
 
 ### Prerequisites
-1. Download the source code from the msrdsdl folder.
+1. Download the source code from http://lxcenter.di.fc.ul.pt/datasets/msrdsdl/.
 
 2. You will need *Python version 3.4.3 or higher*.
 
@@ -33,14 +33,8 @@ http://aclweb.org/anthology/K/K15/K15-1013.pdf
 
      `pip install -r requirements.txt`
 
-4. Set up Theano backend for Keras by editing the configuration file `=~/.keras/keras.json` and changing the field `backend` to `theano`.
+4. Set up Theano backend for Keras by editing the configuration file `~/.keras/keras.json` and changing the field `backend` to `theano`.
 
-5. If you want to run experiments that require word embeddings you need to download and extract distributional models:
-  
-    `models.tar.gz`
-    
-    `tar -xvf models.tar.gz`
-   
 ### About the program
 
 After satisfying all the prerequisites you will have the following directory structure: 
