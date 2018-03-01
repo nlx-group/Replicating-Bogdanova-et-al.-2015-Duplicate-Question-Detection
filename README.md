@@ -26,15 +26,19 @@ http://aclweb.org/anthology/K/K15/K15-1013.pdf
 ## Data and code used for the replication
 
 ### Prerequisites
-1. Download the source code from http://lxcenter.di.fc.ul.pt/datasets/msrdsdl/.
+1. Download the source code from http://lxcenter.di.fc.ul.pt/datasets/msrdsdl/msrdsdl.tar.gz .
 
-2. You will need *Python version 3.4.3 or higher*.
+2. Extract the code:
 
-3. Install required packages:
+     `tar -xvf msrdsl.tar.gz`
+   
+3. You will need *Python version 3.4.3 or higher*.
+
+4. Install required packages:
 
      `pip install -r requirements.txt`
 
-4. Set up Theano backend for Keras by editing the configuration file `~/.keras/keras.json` and changing the field `backend` to `theano`.
+5. Set up Theano backend for Keras by editing the configuration file `~/.keras/keras.json` and changing the field `backend` to `theano`.
 
 ### About the program
 
