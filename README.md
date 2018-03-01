@@ -1,16 +1,17 @@
 # Replication of IBM Team's Duplicate Question Detection Experiment
 
-## Abstract: 
-Validation of experimental results through their replication is central to the scientific progress, in particular in cases that may represent important breakthroughs with respect to the state of the art.
-In the current paper we report on an exercise to replicate the central result in the (Bogdanova et al., 2015) paper, *Detecting Semantically Equivalent Questions in Online User Forums*, which achieved results far surpassing the state-of-the-art for the task of duplicate question detection. In particular, we report on how our replication exercise allowed to find a flaw in the preparation of the data undertaken in that paper that casts justified doubt on the validity of the breakthrough results reported there.
+## Abstract
 
-## Our paper:
+Validation of experimental results through their replication is central to the scientific progress, in particular in cases that may represent important breakthroughs with respect to the state of the art.
+In the present paper we report on the exercise we undertook to replicate the central result of the experiment reported in the (Bogdanova et al., 2015) paper, *Detecting Semantically Equivalent Questions in Online User Forums*, which achieved results far surpassing the state-of-the-art for the task of duplicate question detection. In particular, we report on how our exercise allowed to find a flaw in the preparation of the data used in that paper that casts justified doubt on the validity of the breakthrough results reported there.
+
+## Our paper
 
 We presented our replication exercise in this paper: 
 
 João Silva, João Rodrigues, Vladislav Maraev, Chakaveh Saedi and António Branco, 2018, "A 20% Jump in Duplicate Question Detection Accuracy? Replicating IBM team's experiment and finding problems in its data preparation". *In Proceedings of Workshop on Replicability and Reproducibility of Research Results in Science and Technology of Language (4REAL2018)*, Colocated with LREC2018, Miyazaki, Japan, May 12, 2018.
 
-## IBM team's paper:
+## IBM team's paper
 
 This is the paper reporting the IBM team's work:
 
@@ -22,7 +23,7 @@ Beijing, China, 30-31 July, 2015,
 pp. 123-131,
 http://aclweb.org/anthology/K/K15/K15-1013.pdf
 
-## Data and code used for the replication:
+## Data and code used for the replication
 
 ### Prerequisites
 1. Download the source code from http://lxcenter.di.fc.ul.pt/datasets/msrdsdl/.
