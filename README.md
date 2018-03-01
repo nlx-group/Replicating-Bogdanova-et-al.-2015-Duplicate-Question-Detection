@@ -1,4 +1,4 @@
-# Replication-of-IBM-Team-s-Duplicate-Question-Detection-Experiment-
+# Replication of IBM Team's Duplicate Question Detection Experiment
 
 ## Abstract: 
 Validation of experimental results through their replication is central to the scientific progress, in particular in cases that may represent important breakthroughs with respect to the state of the art.
