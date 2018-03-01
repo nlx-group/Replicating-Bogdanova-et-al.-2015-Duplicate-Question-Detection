@@ -1,7 +1,0 @@
-Keras==1.1.0
-theano==0.8.2
-nltk==3.2
-numpy==1.12.0
-pymystem3==0.1.5
-beautifulsoup4==4.5.3
-progressbar2==3.12.0
