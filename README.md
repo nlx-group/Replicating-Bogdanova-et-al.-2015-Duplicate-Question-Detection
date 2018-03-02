@@ -30,7 +30,7 @@ http://aclweb.org/anthology/K/K15/K15-1013.pdf
 
 2. Extract the code:
 
-     `tar -xvf msrdsl.tar.gz`
+     `tar -xvf msrdsdl.tar.gz`
    
 3. You will need *Python version 3.4.3 or higher*.
 
