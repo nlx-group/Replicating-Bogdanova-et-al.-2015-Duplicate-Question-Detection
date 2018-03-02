@@ -36,7 +36,7 @@ http://aclweb.org/anthology/K/K15/K15-1013.pdf
 
 4. Install required packages:
 
-     `pip install -r requirements.txt`
+     `pip3 install -r requirements.txt`
 
 5. Set up Theano backend for Keras by editing the configuration file `~/.keras/keras.json` and changing the field `backend` to `theano`.
 
