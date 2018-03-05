@@ -77,8 +77,8 @@ You can run the application `./cnn.py` with the `--help` argument to see availab
 
 To change hyperparameters you can modify the method `SentenceSimilarity. set_hyperparameters` by adding new modes. 
 
-## Question Answering
-### Replication of the work by Bogdanova et al. (2015)
+## Running the Duplicate Question Detection experiment
+### Replication of the experiment WITH the clue string in the data sets
     
 For AskUbuntu dataset:
     
@@ -98,7 +98,7 @@ For META Stackexchange dataset:
          --w2v models/meta.w2v
 ```
 
-### Impact of text preprocessing (clue phrases removed)
+### Replication of the experiment WITHOUT the clue string in the data sets
 
 For AskUbuntu dataset:
 
