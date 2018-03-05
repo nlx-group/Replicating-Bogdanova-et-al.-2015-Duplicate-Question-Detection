@@ -1,4 +1,4 @@
-# Replication of IBM Team's Duplicate Question Detection Experiment
+# Replication of IBM Team's Duplicate Question Detection Experiment (2015)
 
 ## Abstract
 
@@ -77,7 +77,7 @@ You can run the application `./cnn.py` with the `--help` argument to see availab
 
 To change hyperparameters you can modify the method `SentenceSimilarity. set_hyperparameters` by adding new modes. 
 
-## Running the Duplicate Question Detection experiment
+## Running the Duplicate Question Detection experiments
 ### Replication of the experiment WITH the clue string in the data sets
     
 For AskUbuntu dataset:
