@@ -117,11 +117,3 @@ For META Stackexchange dataset:
          --test data/meta/noclue/test.tsv \
          --w2v models/meta.w2v
 ```
-
-### Impact of word embeddings (no pre-trained word embeddings)
-
-```
-./cnn.py we_impact --train data/askubuntu/noclue/train.tsv \
-         --val data/askubuntu/noclue/val.tsv \
-         --test data/askubuntu/noclue/test.tsv
-```
