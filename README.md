@@ -3,17 +3,11 @@
 ## Abstract
 
 Validation of experimental results through their replication is central to the scientific progress, in particular in cases that may represent important breakthroughs with respect to the state of the art.
-In the present paper we report on the exercise we undertook to replicate the central result of the experiment reported in the (Bogdanova et al., 2015) paper, *Detecting Semantically Equivalent Questions in Online User Forums*, which achieved results far surpassing the state-of-the-art for the task of duplicate question detection. In particular, we report on how our exercise allowed to find a flaw in the preparation of the data used in that paper that casts justified doubt on the validity of the breakthrough results reported there.
+In the present paper we report on the exercise we undertook to replicate the best result of the experiments reported in the (Bogdanova et al., 2015) paper, *Detecting Semantically Equivalent Questions in Online User Forums*, which achieved results far surpassing the state-of-the-art for the task of duplicate question detection. In particular, we report on how our exercise allowed to find what seems a flaw in the preparation of the data used in that paper.
 
-## Our paper
+## The paper
 
-We presented our replication exercise in this paper: 
-
-João Silva, João Rodrigues, Vladislav Maraev, Chakaveh Saedi and António Branco, 2018, "A 20% Jump in Duplicate Question Detection Accuracy? Replicating IBM team's experiment and finding problems in its data preparation". *In Proceedings of Workshop on Replicability and Reproducibility of Research Results in Science and Technology of Language (4REAL2018)*, Colocated with LREC2018, Miyazaki, Japan, May 12, 2018.
-
-## IBM team's paper
-
-This is the paper reporting the IBM team's work:
+This is the paper:
 
 Dasha Bogdanova, Cícero Nogueira dos Santos, Luciano Barbosa and Bianca Zadrozny, 2015,
 "Detecting Semantically Equivalent Questions in Online User Forums",
